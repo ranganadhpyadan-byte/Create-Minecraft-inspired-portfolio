@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480">
+  <rect width="800" height="480" fill="#172a2c"/>
+  <path fill="#244238" d="M0 320h800v160H0z"/>
+  <path fill="#315545" d="M0 302h800v18H0z"/>
+  <g stroke="#78917b" stroke-width="5">
+    <path fill="#243a39" d="M192 80h416v320H192z"/>
+    <path fill="#3b6450" d="M224 112h64v64h-64zm64 0h64v64h-64zm64 0h64v64h-64zm64 0h64v64h-64zm64 0h64v64h-64z"/>
+    <path fill="#34564a" d="M224 176h64v64h-64zm64 0h64v64h-64zm64 0h64v64h-64zm64 0h64v64h-64zm64 0h64v64h-64z"/>
+    <path fill="#34564a" d="M224 240h64v64h-64zm64 0h64v64h-64zm64 0h64v64h-64zm64 0h64v64h-64zm64 0h64v64h-64z"/>
+    <path fill="#34564a" d="M224 304h64v64h-64zm64 0h64v64h-64zm64 0h64v64h-64zm64 0h64v64h-64zm64 0h64v64h-64z"/>
+  </g>
+  <path fill="#f1c66a" d="M268 140h64v64h-64zM396 204h64v64h-64zM460 268h64v64h-64z"/>
+  <path fill="#92ce75" d="M332 204h64v64h-64zM460 204h64v64h-64zM524 268h64v64h-64z"/>
+  <path fill="#f1c66a" d="M268 268h64v64h-64zM332 332h64v36h-64z"/>
+  <path fill="#d7e4ca" d="M287 158h26v26h-26zm128 64h26v26h-26zm64 64h26v26h-26z"/>
+</svg>
